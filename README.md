@@ -1,5 +1,4 @@
-# ee149_104
-EE149 project
+# EE149 project
 
 ASL Glove:
 
