@@ -10,6 +10,6 @@ placed on the wrist.
  
 Project demo: https://www.youtube.com/watch?v=l23CnbqnPOs
 
-![alt text](https://raw.githubusercontent.com/juanmrq95/ASLglove/gloveSpelling.png)
+![glovespelling](https://user-images.githubusercontent.com/14130139/39557786-f5411d8a-4e3e-11e8-84b2-ec4456b47c09.png)
 
 
