@@ -1,6 +1,4 @@
-# EE149 project
-
-ASL Glove:
+# EE149: ASL Glove
 
 Our sign language translation glove is able to translate every letter in the ASL alphabet to text and speech in real time,  with the goal of allowing the deaf to speak out. 
 We were able to uniquely classify each gesture by analyzing the signals from 5 analog strain sensors, 7 touch sensors and 1 IMU. The whole system is powered by a 9V battery and it can be used as a wearable device with a small speaker. We designed and printed all the PCBs from scratch, sowed all the components on the glove ourselves and assembled the whole system in Jacobs and Cory Hall. 
