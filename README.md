@@ -7,3 +7,9 @@ We created a glove able to interpret every gesture in the ASL alphabet and trans
 We did so by putting touch and flex sensors as well as an IMU embedded on the glove. We designed a sensing circuit 
 embedded on the backside of the glove on a flexible PCB sheet as well a small PCB for interfacing with our microprocessor
 placed on the wrist.
+ 
+Project demo: https://www.youtube.com/watch?v=l23CnbqnPOs
+
+![alt text](https://raw.githubusercontent.com/juanmrq95/ASLglove/gloveSpelling.png)
+
+
